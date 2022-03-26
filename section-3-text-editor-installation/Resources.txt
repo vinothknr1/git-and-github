@@ -1,0 +1,1 @@
+Learn How to use "Environment Variable" and "How to open Notepad++ with cmd"
